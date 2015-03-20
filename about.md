@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I Love You All....
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+3월이다. 곧 잔인한 4월이 옵니다.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[stallon.hong@gmail.com](mailto:stallon.hong@gmail.com)
